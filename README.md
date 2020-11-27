@@ -1,6 +1,8 @@
 # fxserver-FoRa_noobpack
 FXserver FoRa Noobpack
 
-這是一個完全由臺灣人自寫的插件
-為了客家村而製作
-不歡迎盜用<3
+This is a noob pack script for fivem server
+You can use this script on your server
+but you can't say this script is you made
+Have Fun
+(My english is bad sorry....)
